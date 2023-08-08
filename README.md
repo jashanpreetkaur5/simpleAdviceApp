@@ -1,2 +1,2 @@
 # simpleAdviceApp
-Created with CodeSandbox
+My very first small React app.
